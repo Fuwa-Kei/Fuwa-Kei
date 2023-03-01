@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **SF9 Fansite commission**
 
-- 🌱 I’m currently learning **Typescript and SASS/SCSS**
+- 🌱 I’m currently learning **UI UX design**
 
 - 👨‍💻 My projects are available at [https://www.keichan.uk/](https://www.keichan.uk/)
 
