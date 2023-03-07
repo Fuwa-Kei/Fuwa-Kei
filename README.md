@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **SF9 Fansite commission**
 
-- 🌱 I’m currently learning **UI UX design**
+- 🌱 I’m currently learning **UI UX design** Via the Open Bootcamp (so less coding/commits for a while)
 
 - 👨‍💻 My projects are available at [https://www.keichan.uk/](https://www.keichan.uk/)
 
