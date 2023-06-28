@@ -1,12 +1,12 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQF5PNVULXp-4Q/profile-displaybackgroundimage-shrink_350_1400/0/1675478325904?e=1681344000&v=beta&t=U_4CSww_WH8ecK76or1qGvN9NIAUnQk-XfVhDkcqEWc)](https://www.keichan.uk/)
+
 <h1 align="center">Hi, I'm Kei</h1>
 <h3 align="center">Front-End Developer and UI/UX Designer from London</h3>
 
-- 🔭 I’m currently working on **SF9 Fansite commission**
+- 🔭 I’m currently working on **Various UX Projects**
 
 - 🌱 I’m currently learning **UI UX design** Via the [OpenBootcamp](https://www.uxuiopen.com/) (so less coding/commits for a while)
 
-- 👨‍💻 My projects are available at [https://www.keichan.uk/](https://www.keichan.uk/)
+- 👨‍💻 My projects are available at [https://www.keichan.uk/](https://www.keichan.uk/) / [UX Portfolio/]([https://www.keichan.uk/](https://keichanux.framer.website/))
 
 - 📫 Contact me **keichan10010@gmail.com**
 
