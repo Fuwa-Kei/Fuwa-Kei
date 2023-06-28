@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **UI UX design** Via the [OpenBootcamp](https://www.uxuiopen.com/) (so less coding/commits for a while)
 
-- 👨‍💻 My projects are available at [https://www.keichan.uk/](https://www.keichan.uk/) / [UX Portfolio/](https://keichanux.framer.website/))
+- 👨‍💻 My projects are available at [https://www.keichan.uk/](https://www.keichan.uk/) | [UX Portfolio/](https://keichanux.framer.website/
 
 - 📫 Contact me **keichan10010@gmail.com**
 
