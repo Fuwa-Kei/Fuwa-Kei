@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Various UX Projects**
 
-- 🌱 I’m currently learning **UI UX design** Via the [OpenBootcamp](https://www.uxuiopen.com/) (so less coding/commits for a while)
+- 🌱 Working on starting a career as a Product Designer
 
 - 👨‍💻 My projects are available at [https://www.keichan.uk/](https://www.keichan.uk/) | [UX Portfolio](https://keichanux.framer.website/)
 
