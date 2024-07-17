@@ -6,7 +6,7 @@
 
 - 🌱 Working on starting a career as a Product Designer
 
-- 👨‍💻 My projects are available at [https://www.keichan.uk/](https://www.keichan.uk/) | [UX Portfolio](https://keichanux.framer.website/)
+- 👨‍💻 My projects are available at [https://www.keichan.uk/](https://www.keichan.uk/) | [UX Portfolio]([https://keichanux.framer.website/](https://keichan.co.uk))
 
 - 📫 Contact me **keichan10010@gmail.com**
 
